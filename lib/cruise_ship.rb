@@ -7,5 +7,6 @@
 # }
 
 def select_winner(passengers)
-  # add the code snippet here!
+  select_winner.each do |idx|
+    if idx == :suite_a && 
 end
